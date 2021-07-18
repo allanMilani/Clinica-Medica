@@ -1,0 +1,72 @@
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Clinica Médica.exe
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Clinica Médica.deps.json
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Clinica Médica.runtimeconfig.json
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Clinica Médica.runtimeconfig.dev.json
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Clinica Médica.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\ref\Clinica Médica.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Clinica Médica.pdb
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica Médica.csprojAssemblyReference.cache
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Clinica_Medica.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica Médica.csproj.GenerateResource.cache
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica Médica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica Médica.AssemblyInfoInputs.cache
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica Médica.AssemblyInfo.cs
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica Médica.csproj.CoreCompileInputs.cache
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica Médica.csproj.CopyComplete
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica Médica.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\ref\Clinica Médica.dll
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica Médica.pdb
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica Médica.genruntimeconfig.cache
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Cadastro_de_Especialidades.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Cadastro_de_Paciente.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Cadastro_de_Medico.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Cadastro_Agenda.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.VisualizarEspecialidades.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.Properties.Resources.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Atualizar_Especialidade.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Visualizar_Medicos.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Atualizar_Medico.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Visualizar_Paciente.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Atualizar_Paciente.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Visualizar_Agenda.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Atualizar_Agenda.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Anotacoes_Medicas.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Historico_Pacientes.resources
+C:\Users\allan\source\repos\Clinica Médica\Clinica Médica\obj\Debug\net5.0-windows\Clinica_Médica.View.Ver_Dados_da_Consulta.resources

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="View\Anotacoes Medicas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Atualizar Agenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Atualizar Especialidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Atualizar Medico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Atualizar Paciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Cadastro Agenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Cadastro de Especialidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Cadastro de Médico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Cadastro de Paciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Clinica Médica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Historico Pacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Ver Dados da Consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Visualizar Agenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Visualizar Medicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Visualizar Paciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\VisualizarEspecialidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
